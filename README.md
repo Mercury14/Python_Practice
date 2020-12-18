@@ -9,3 +9,8 @@ Study resources
 Reading
 
 - [ ] [Learning Python (Lutz)]
+
+
+Python Tutorials and Podcasts
+
+- [ ] [Real Python](https://realpython.com/)

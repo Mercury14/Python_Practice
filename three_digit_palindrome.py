@@ -7,7 +7,7 @@ def problem_four():
 	for x in range(999, -1):
 		for y in range(999, -1):
 			number_to_check = x * y
-			if check_if_palindrome(number_to_check) == True:
+			if check_if_palindrome(number_to_check, 1, -1) == True:
 				print(number_to_check)
 				break
 

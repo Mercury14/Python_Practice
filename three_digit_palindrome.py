@@ -10,19 +10,19 @@ def problem_four():
 			if check_if_palindrome(number_to_check) == True:
 				print(number_to_check)
 				break
-			
+
 # use a recursive function to check if the next number is a palindrome
 def check_if_palindrome(number, start_index, end_index):
 	if (start_index == end_index):
 		return True
-		
+
 		if (number[start_index] != number[end]):
 			return False
-			
+
 		if (start_index < end_index+1):
 			return check_if_palindrome(number, start_index+1, end_index-1)
-			
+
 		return True
 
-# Test 
-problem_four()
+# Test
+print(problem_four())

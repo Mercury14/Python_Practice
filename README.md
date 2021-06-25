@@ -14,3 +14,8 @@ Reading
 Python Tutorials and Podcasts
 
 - [ ] [Real Python](https://realpython.com/)
+
+
+Practice
+
+- [ ] [Project Euler] (https://projecteuler.net/)

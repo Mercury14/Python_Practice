@@ -13,7 +13,7 @@ Reading
 
 Python Tutorials and Podcasts
 
-- [ ] Real Python(https://realpython.com/)
+- [ ] Real Python (https://realpython.com/)
 
 
 Practice

@@ -8,9 +8,14 @@ Study resources
 
 Reading
 
-- [ ] [Learning Python (Lutz)]
+- [ ] Learning Python (Lutz)
 
 
 Python Tutorials and Podcasts
 
-- [ ] [Real Python](https://realpython.com/)
+- [ ] Real Python (https://realpython.com/)
+
+
+Practice
+
+- [ ] Project Euler (https://projecteuler.net/)

@@ -5,6 +5,7 @@ A place for my daily coding practice
 Study resources
 
 - [ ] [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+- [ ] Introduction to Computation and Programming with Python (Guttag)
 
 Reading
 

@@ -1,18 +1,18 @@
 # Write a function that accepts two strings as arguments and returns True if either string occurs anywhere in the other and False otherwise.
 
-def isIn():
-    # Capture first string
-    string_1 = input("Enter the first string ")
-    string_2 = input("Enter the second string ")
+def isIn(string_1, string_2):
+    """
+    A function that accepts two strings as arguments and returns True if either string occurs anywhere in the other and False otherwise"""
 
-    if string_1 in string_2:
-        print("True")
 
-    elif string_2 in string_1:
-        print("True")
+    if string_1 in string_2 or string_2 in string_1:
+        return True
 
     else:
-        print("False")
+        return False
 
 
-isIn()
+
+x = input("Enter the first string ")
+y = input("Enter the second string ")
+print(isIn(x, y))
